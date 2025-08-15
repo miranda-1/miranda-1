@@ -3,16 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=6A0DAD&fontColor=ffffff&fontFamily=Pacifico&desc=Desenvolvedor%20e%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
 </p>
 
-<h1 align="center">🎯 Fala aí! Eu sou o Miranda</h1>
+<!-- CTA - Links rápidos -->
 <p align="center">
-  Estudante de <b>Ciência da Computação</b> (4º semestre) • focado em <b>Python</b>, <b>C++</b>, <b>IA</b> e <b>Visão Computacional</b><br/>
-  Curioso por inovação, projeto bom e código limpo.
-</p>
-
-<p align="center">
-  <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Email-joaovictor10__miranda%40hotmail.com-6A0DAD?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvss-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a"><img src="https://img.shields.io/badge/LinkedIn-João%20Victor%20Miranda-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Contato-Email-6A0DAD?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a"><img src="https://img.shields.io/badge/LinkedIn-Conectar-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvss-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -23,9 +18,20 @@
 
 ## 🧩 Sobre mim
 - 📚 4º semestre de **Ciência da Computação**
-- 🧠 Estudando **Python**, **C++**, **Estruturas de Dados** e **MMDetection**
-- 🔬 Interesses: **IA**, **Visão Computacional**, **MLOps** e **Sistemas**
-- 🎯 Meta atual: evoluir meus projetos práticos e documentação no GitHub
+- 🧠 Áreas de estudo: **Inteligência Artificial**, **Python** e **C++**
+- 🎯 Foco atual: aprimorar habilidades práticas e projetos aplicados
+- 💡 Interesses: **Visão Computacional**, **Machine Learning**, **Sistemas de Alto Desempenho**
+
+---
+
+## 📚 O que estou estudando agora
+<details>
+  <summary><b>Clique para expandir</b></summary>
+  <br>
+  • Algoritmos e estruturas de dados em C++ <br>
+  • Fundamentos de Machine Learning <br>
+  • Python aplicado à IA e automação <br>
+</details>
 
 ---
 
@@ -33,19 +39,16 @@
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-6A0DAD?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-6A0DAD?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Data/IA
+### IA / Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-6A0DAD?style=for-the-badge&logo=pytorch&logoColor=white)
-![MMDetection](https://img.shields.io/badge/MMDetection-6A0DAD?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-6A0DAD?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-6A0DAD?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Dev & Cloud
+### Dev
 ![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-6A0DAD?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
@@ -73,6 +76,17 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=miranda-1&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
+
+---
+
+## ❓ FAQ
+<details>
+  <summary><b>Clique para expandir</b></summary>
+  <br>
+  <b>Stack preferida?</b> Python + PyTorch + C++. <br>
+  <b>Ambiente?</b> Linux + Colab + VS Code. <br>
+  <b>Objetivo?</b> Estágio/Trainee em IA ou Desenvolvimento de Software. <br>
+</details>
 
 ---
 
