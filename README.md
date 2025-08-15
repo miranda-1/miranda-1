@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Email-joaovictor10__miranda%40hotmail.com-6f2da8?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mirandajvsse"><img src="https://img.shields.io/badge/Instagram-@mirandajvsse-bf37ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvsse-bf37ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a"><img src="https://img.shields.io/badge/LinkedIn-João%20Victor%20Miranda-6f2da8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
