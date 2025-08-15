@@ -1,15 +1,10 @@
-<!-- Fundo estilo Matrix -->
+<!-- Banner roxo com nome -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="matrix code rain"/>
-</p>
-
-<!-- Mascote Pokémon (Gengar) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="140px" alt="gengar floating"/>
+  <img src="https://img.shields.io/badge/MIRANDA-6f2da8?style=for-the-badge&logoColor=white&labelColor=4b0082" alt="Banner Miranda"/>
 </p>
 
 <!-- Banner / Intro -->
-<h1 align="center">🎯 Fala aí! Eu sou o Miranda (JVZin)</h1>
+<h1 align="center">🎯 Fala aí! Eu sou o Miranda</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"/>  
 </p>
@@ -38,23 +33,7 @@
 
 ---
 
-## 👻 Seção Pokémon (Gengar)
-<p align="center">
-  <img src="https://media.giphy.com/media/1rNWZ6GftQ6Hq/giphy.gif" width="180px" alt="gengar wink"/>
-</p>
-
-**Gengar** — o Fantasma Sorridente.  
-🔮 *Shadow Ball*, *Hypnosis* e *Dream Eater*: estratégia e precisão — do jeitinho que eu gosto de codar: **furtivo, eficiente e com estilo**.
-
-**Badges temáticas**
-  
-![Pokémon Favorito: Gengar](https://img.shields.io/badge/Pokémon-Gengar-6f2da8?style=for-the-badge&logo=pokemon&logoColor=white)
-![Tipo Favorito: Fantasma](https://img.shields.io/badge/Tipo-Fantasma-4b0082?style=for-the-badge&logo=pokemon&logoColor=white)
-![Geração: Kanto](https://img.shields.io/badge/Geração-Kanto-bf37ff?style=for-the-badge&logo=pokemon&logoColor=white)
-
----
-
-## ⚙️ Tech Stack (toque roxo)
+## ⚙️ Tech Stack
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-6f2da8?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-6f2da8?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -104,6 +83,6 @@
 ## 📬 Contato
 - ✉️ **Email:** <joaovictor10_miranda@hotmail.com>  
 - 💼 **LinkedIn:** [linkedin.com/in/joão-victor-miranda-sacco-8853a437a](https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a)  
-- 📸 **Instagram:** [@mirandajvsse](https://www.instagram.com/mirandajvsse)
+- 📸 **Instagram:** [@mirandajvss](https://www.instagram.com/mirandajvss)
 
 > “A cada linha de código, mais perto do meu futuro.”  
