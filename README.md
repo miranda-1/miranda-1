@@ -1,6 +1,6 @@
-<!-- Banner roxo forte + rosa com fonte cursiva -->
+<!-- Banner roxo sólido com fonte cursiva -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6A0DAD,FF69B4&fontColor=ffffff&fontFamily=Pacifico&desc=Desenvolvedor%20e%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=6A0DAD&fontColor=ffffff&fontFamily=Pacifico&desc=Desenvolvedor%20e%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
 </p>
 
 <h1 align="center">🎯 Fala aí! Eu sou o Miranda</h1>
@@ -60,7 +60,7 @@
 
 ## 📈 Gráfico de Contribuições
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=6A0DAD&point=FF69B4&area=true&hide_border=true" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=6A0DAD&point=6A0DAD&area=true&hide_border=true" alt="contribution graph"/>
 </p>
 
 ---
