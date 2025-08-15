@@ -30,7 +30,7 @@
   <br>
   • Algoritmos e estruturas de dados em C++ <br>
   • Fundamentos de Machine Learning <br>
-  • Python aplicado à IA <br>
+  • Python  <br>
 </details>
 
 ---
