@@ -30,7 +30,7 @@
   <br>
   • Algoritmos e estruturas de dados em C++ <br>
   • Fundamentos de Machine Learning <br>
-  • Python aplicado à IA e automação <br>
+  • Python aplicado à IA <br>
 </details>
 
 ---
@@ -49,7 +49,8 @@
 ### Dev
 ![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-6A0DAD?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-6A0DAD?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -84,7 +85,7 @@
   <summary><b>Clique para expandir</b></summary>
   <br>
   <b>Stack preferida?</b> Python + PyTorch + C++. <br>
-  <b>Ambiente?</b> Linux + Colab + VS Code. <br>
+  <b>Ambiente?</b> Windows + VS Code. <br>
   <b>Objetivo?</b> Estágio/Trainee em IA ou Desenvolvimento de Software. <br>
 </details>
 
