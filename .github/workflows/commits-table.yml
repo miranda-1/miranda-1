@@ -1,0 +1,45 @@
+name: Update Commits Tables
+
+on:
+  schedule:
+    - cron: "15 */12 * * *"   # roda a cada 12h
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dateutil
+
+      - name: Generate commit tables
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: "miranda-1"
+          README_PATH: "README.md"
+        run: |
+          python .github/scripts/update_commits_table.py
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: atualizar tabelas de commits (auto)"
+            git push
+          else
+            echo "Sem alterações."
+          fi
