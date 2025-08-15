@@ -1,9 +1,9 @@
-<!-- Banner roxo com nome -->
+<!-- Banner roxo degradê -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MIRANDA-6f2da8?style=for-the-badge&logoColor=white&labelColor=4b0082" alt="Banner Miranda"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MIRANDA&fontAlign=50&fontAlignY=40&color=6f2da8&fontColor=ffffff&desc=Desenvolvedor%20e%20Estudante%20de%20Ciência%20da%20Computação&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
 </p>
 
-<!-- Banner / Intro -->
+<!-- Intro -->
 <h1 align="center">🎯 Fala aí! Eu sou o Miranda</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"/>  
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Email-joaovictor10__miranda%40hotmail.com-6f2da8?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvsse-bf37ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvss-bf37ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a"><img src="https://img.shields.io/badge/LinkedIn-João%20Victor%20Miranda-6f2da8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
