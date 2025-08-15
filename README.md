@@ -1,6 +1,6 @@
-<!-- Banner roxo-azul premium com fonte cursiva -->
+<!-- Banner roxo-rosa premium com fonte cursiva -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=6f2da8&fontColor=ffffff&fontFamily=cursive&desc=Desenvolvedor%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=gradient&customColorList=8A2BE2,FF69B4&fontColor=ffffff&fontFamily=Pacifico&desc=Desenvolvedor%20e%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
 </p>
 
 <h1 align="center">🎯 Fala aí! Eu sou o Miranda</h1>
@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Email-joaovictor10__miranda%40hotmail.com-6f2da8?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvss-bf37ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a"><img src="https://img.shields.io/badge/LinkedIn-João%20Victor%20Miranda-6f2da8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Email-joaovictor10__miranda%40hotmail.com-8A2BE2?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvss-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a"><img src="https://img.shields.io/badge/LinkedIn-João%20Victor%20Miranda-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miranda-1&style=flat-square&label=Profile%20views&color=6f2da8" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=miranda-1&style=flat-square&label=Profile%20views&color=8A2BE2" alt="profile views"/>
 </p>
 
 ---
@@ -31,22 +31,22 @@
 
 ## ⚙️ Tech Stack
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-6f2da8?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-6f2da8?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-6f2da8?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-8A2BE2?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Data/IA
-![PyTorch](https://img.shields.io/badge/PyTorch-6f2da8?style=for-the-badge&logo=pytorch&logoColor=white)
-![MMDetection](https://img.shields.io/badge/MMDetection-6f2da8?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-6f2da8?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-6f2da8?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-6f2da8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
+![MMDetection](https://img.shields.io/badge/MMDetection-8A2BE2?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-8A2BE2?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Dev & Cloud
-![Git](https://img.shields.io/badge/Git-6f2da8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6f2da8?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-6f2da8?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6f2da8?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-8A2BE2?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8A2BE2?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -58,15 +58,10 @@
 
 ---
 
-## 📅 Tabelas de Commits (atualizadas automaticamente)
-
-<!--COMMITS_TABLE_START-->
-_Aguardando atualização do GitHub Actions..._
-<!--COMMITS_TABLE_END-->
-
-<!--COMMITS_SUMMARY_START-->
-_Aguardando atualização do GitHub Actions..._
-<!--COMMITS_SUMMARY_END-->
+## 📈 Gráfico de Contribuições
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=8A2BE2&point=FF69B4&area=true&hide_border=true" alt="contribution graph"/>
+</p>
 
 ---
 
