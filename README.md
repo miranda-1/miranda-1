@@ -1,13 +1,9 @@
-<!-- Banner roxo degradê -->
+<!-- Banner roxo-azul premium com fonte cursiva -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MIRANDA&fontAlign=50&fontAlignY=40&color=6f2da8&fontColor=ffffff&desc=Desenvolvedor%20e%20Estudante%20de%20Ciência%20da%20Computação&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=6f2da8&fontColor=ffffff&fontFamily=cursive&desc=Desenvolvedor%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
 </p>
 
-<!-- Intro -->
 <h1 align="center">🎯 Fala aí! Eu sou o Miranda</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"/>  
-</p>
 <p align="center">
   Estudante de <b>Ciência da Computação</b> (4º semestre) • focado em <b>Python</b>, <b>C++</b>, <b>IA</b> e <b>Visão Computacional</b><br/>
   Curioso por inovação, projeto bom e código limpo.
@@ -26,9 +22,9 @@
 ---
 
 ## 🧩 Sobre mim
-- 📚 4º semestre de **Ciência da Computação**  
-- 🧠 Estudando **Python**, **C++**, **Estruturas de Dados** e **MMDetection**  
-- 🔬 Interesses: **IA**, **Visão Computacional**, **MLOps** e **Sistemas**  
+- 📚 4º semestre de **Ciência da Computação**
+- 🧠 Estudando **Python**, **C++**, **Estruturas de Dados** e **MMDetection**
+- 🔬 Interesses: **IA**, **Visão Computacional**, **MLOps** e **Sistemas**
 - 🎯 Meta atual: evoluir meus projetos práticos e documentação no GitHub
 
 ---
@@ -41,48 +37,4 @@
 
 ### Data/IA
 ![PyTorch](https://img.shields.io/badge/PyTorch-6f2da8?style=for-the-badge&logo=pytorch&logoColor=white)
-![MMDetection](https://img.shields.io/badge/MMDetection-6f2da8?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-6f2da8?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-6f2da8?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-6f2da8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Dev & Cloud
-![Git](https://img.shields.io/badge/Git-6f2da8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6f2da8?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-6f2da8?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6f2da8?style=for-the-badge&logo=linux&logoColor=white)
-
----
-
-## 📊 Estatísticas
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miranda-1&show_icons=true&theme=midnight-purple&rank_icon=github" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranda-1&layout=compact&theme=midnight-purple" alt="top langs"/>
-</p>
-
----
-
-## 📈 Gráfico de Contribuições
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=bf37ff&point=6f2da8&area=true&hide_border=true" alt="contribution graph"/>
-</p>
-
----
-
-## 🔥 Streak & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=miranda-1&theme=tokyonight&hide_border=true&border_radius=6" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miranda-1&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📬 Contato
-- ✉️ **Email:** <joaovictor10_miranda@hotmail.com>  
-- 💼 **LinkedIn:** [linkedin.com/in/joão-victor-miranda-sacco-8853a437a](https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a)  
-- 📸 **Instagram:** [@mirandajvss](https://www.instagram.com/mirandajvss)
-
-> “A cada linha de código, mais perto do meu futuro.”  
+![MMDetection](https://img.shields.io/badge/MMDetection-6f2da8?style=for-the-badge&logoColor=w)
