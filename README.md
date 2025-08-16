@@ -97,3 +97,40 @@
 - 📸 **Instagram:** [@mirandajvss](https://www.instagram.com/mirandajvss)
 
 > “A cada linha de código, mais perto do meu futuro.”
+
+
+<!--COMMITS_TABLE_START-->
+### 🔮 Últimos 14 dias
+
+| Data | Commits |
+|:----:|:-------:|
+| 2025-08-16 | **0** |
+| 2025-08-15 | **17** |
+| 2025-08-14 | **3** |
+| 2025-08-13 | **0** |
+| 2025-08-12 | **0** |
+| 2025-08-11 | **0** |
+| 2025-08-10 | **0** |
+| 2025-08-09 | **0** |
+| 2025-08-08 | **0** |
+| 2025-08-07 | **0** |
+| 2025-08-06 | **0** |
+| 2025-08-05 | **0** |
+| 2025-08-04 | **0** |
+| 2025-08-03 | **0** |
+
+### 💜 Commits por dia da semana (últimos 14 dias)
+
+| Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **0** | **0** | **0** | **3** | **17** | **0** | **0** |
+
+<!--COMMITS_TABLE_END-->
+
+
+<!--COMMITS_SUMMARY_START-->
+- **Commits no mês (August/2025)**: **20**
+- **Média diária no mês**: **1.25** commits/dia
+- **Total de commits (ano atual)**: **18**
+
+<!--COMMITS_SUMMARY_END-->
