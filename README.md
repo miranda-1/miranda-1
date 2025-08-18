@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=6A0DAD&fontColor=ffffff&fontFamily=Pacifico&desc=Desenvolvedor%20e%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
 </p>
 
+<!-- Mascote Gengar topo -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="150" alt="Gengar"/>
+</p>
+
 <!-- CTA - Links rápidos -->
 <p align="center">
   <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Contato-Email-6A0DAD?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
@@ -30,7 +35,7 @@
   <br>
   • Algoritmos e estruturas de dados em C++ <br>
   • Fundamentos de Machine Learning <br>
-  • Python  <br>
+  • Python <br>
 </details>
 
 ---
@@ -62,13 +67,6 @@
 
 ---
 
-## 📈 Gráfico de Contribuições
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=6A0DAD&point=6A0DAD&area=true&hide_border=true" alt="contribution graph"/>
-</p>
-
----
-
 ## 🔥 Streak & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=miranda-1&theme=tokyonight&hide_border=true&border_radius=6" alt="GitHub Streak" />
@@ -76,6 +74,13 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=miranda-1&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Gráfico de Contribuições
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=6A0DAD&point=6A0DAD&area=true&hide_border=true" alt="contribution graph"/>
 </p>
 
 ---
@@ -91,16 +96,8 @@
 
 ---
 
-## 📬 Contato
-- ✉️ **Email:** <joaovictor10_miranda@hotmail.com>  
-- 💼 **LinkedIn:** [linkedin.com/in/joão-victor-miranda-sacco-8853a437a](https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a)  
-- 📸 **Instagram:** [@mirandajvss](https://www.instagram.com/mirandajvss)
-
-> “A cada linha de código, mais perto do meu futuro.”
-
-
 <!--COMMITS_TABLE_START-->
-### 🔮 Últimos 14 dias
+## 🔮 Últimos 14 dias
 
 | Data | Commits |
 |:----:|:-------:|
@@ -127,10 +124,29 @@
 
 <!--COMMITS_TABLE_END-->
 
-
 <!--COMMITS_SUMMARY_START-->
-- **Commits no mês (August/2025)**: **20**
-- **Média diária no mês**: **1.11** commits/dia
-- **Total de commits (ano atual)**: **18**
-
+- **Commits no mês (August/2025)**: **20**  
+- **Média diária no mês**: **1.11** commits/dia  
+- **Total de commits (ano atual)**: **18**  
 <!--COMMITS_SUMMARY_END-->
+
+---
+
+## 📬 Contato
+- ✉️ **Email:** <joaovictor10_miranda@hotmail.com>  
+- 💼 **LinkedIn:** [linkedin.com/in/joão-victor-miranda-sacco-8853a437a](https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a)  
+- 📸 **Instagram:** [@mirandajvss](https://www.instagram.com/mirandajvss)  
+
+> “A cada linha de código, mais perto do meu futuro.”
+
+---
+
+<!-- Mascote Gengar final -->
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" alt="Gengar"/>
+</p>
+
+<!-- Banner roxo de fechamento -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&text=Miranda&fontAlign=50&fontAlignY=70&color=6A0DAD&fontColor=ffffff&fontFamily=Pacifico&animation=fadeIn" alt="Banner Miranda Footer"/>
+</p>
