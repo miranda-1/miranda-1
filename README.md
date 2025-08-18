@@ -146,7 +146,7 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" alt="Gengar"/>
 </p>
 
-<!-- Banner roxo de fechamento -->
+<!-- Banner roxo de fechamento sem texto -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&text=Miranda&fontAlign=50&fontAlignY=70&color=6A0DAD&fontColor=ffffff&fontFamily=Pacifico&animation=fadeIn" alt="Banner Miranda Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=6A0DAD"/>
 </p>
