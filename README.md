@@ -143,11 +143,10 @@
 
 <!-- Mascote Gengar final -->
 <p align="center">
-  <img src="https://media.tenor.com/hSWT0Zx2_q4AAAAi/pokemon-gengar.gif" width="200" alt="Gengar"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" alt="Gengar"/>
 </p>
 
 <!-- Banner roxo de fechamento -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&text=Miranda&fontAlign=50&fontAlignY=70&color=6A0DAD&fontColor=ffffff&fontFamily=Pacifico&animation=fadeIn" alt="Banner Miranda Footer"/>
 </p>
-
