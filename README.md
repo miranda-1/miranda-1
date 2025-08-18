@@ -141,12 +141,12 @@
 
 ---
 
-<!-- Mascote Gengar final -->
+<!-- Mascote Gengar final (Dark Mode) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" alt="Gengar"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="300" alt="Gengar"/>
 </p>
 
-<!-- Banner roxo de fechamento sem texto -->
+<!-- Banner roxo Dark Mode de fechamento -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=6A0DAD"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=6A0DAD&reversal=true&theme=dark"/>
 </p>
