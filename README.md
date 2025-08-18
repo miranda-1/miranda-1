@@ -1,6 +1,6 @@
-<!-- Banner roxo sólido com fonte cursiva -->
+<!-- TOPO: Modelo 2 - Roxo sólido neon -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=6A0DAD&fontColor=ffffff&fontFamily=Pacifico&desc=Desenvolvedor%20e%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Miranda&fontAlign=50&fontAlignY=40&color=9400D3&fontColor=ffffff&fontFamily=Pacifico&desc=Desenvolvedor%20e%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlign=50&descAlignY=65&descSize=14&animation=fadeIn" alt="Banner Miranda"/>
 </p>
 
 <!-- Mascote Gengar topo -->
@@ -10,13 +10,13 @@
 
 <!-- CTA - Links rápidos -->
 <p align="center">
-  <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Contato-Email-6A0DAD?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a"><img src="https://img.shields.io/badge/LinkedIn-Conectar-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvss-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:joaovictor10_miranda@hotmail.com"><img src="https://img.shields.io/badge/Contato-Email-9400D3?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a"><img src="https://img.shields.io/badge/LinkedIn-Conectar-9400D3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mirandajvss"><img src="https://img.shields.io/badge/Instagram-@mirandajvss-9400D3?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miranda-1&style=flat-square&label=Profile%20views&color=6A0DAD" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=miranda-1&style=flat-square&label=Profile%20views&color=9400D3" alt="profile views"/>
 </p>
 
 ---
@@ -42,20 +42,20 @@
 
 ## ⚙️ Tech Stack
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-6A0DAD?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9400D3?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-9400D3?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### IA / Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-6A0DAD?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-6A0DAD?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-6A0DAD?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-9400D3?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-9400D3?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9400D3?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-9400D3?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Dev
-![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-6A0DAD?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-6A0DAD?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9400D3?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-9400D3?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-9400D3?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-9400D3?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -80,7 +80,7 @@
 
 ## 📈 Gráfico de Contribuições
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=6A0DAD&point=6A0DAD&area=true&hide_border=true" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=9400D3&point=9400D3&area=true&hide_border=true" alt="contribution graph"/>
 </p>
 
 ---
@@ -141,12 +141,12 @@
 
 ---
 
-<!-- Mascote Gengar final (Dark Mode) -->
+<!-- Mascote Gengar final -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="300" alt="Gengar"/>
 </p>
 
-<!-- Banner roxo Dark Mode de fechamento -->
+<!-- RODAPÉ: Modelo 2 - Sólido roxo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=6A0DAD&reversal=true&theme=dark"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=9400D3&reversal=true&theme=dark"/>
 </p>
