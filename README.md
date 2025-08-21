@@ -101,7 +101,7 @@
 
 | Data | Commits |
 |:----:|:-------:|
-| 2025-08-21 | **0** |
+| 2025-08-21 | **1** |
 | 2025-08-20 | **3** |
 | 2025-08-19 | **0** |
 | 2025-08-18 | **8** |
@@ -120,14 +120,14 @@
 
 | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **8** | **0** | **3** | **3** | **17** | **0** | **0** |
+| **8** | **0** | **3** | **4** | **17** | **0** | **0** |
 
 <!--COMMITS_TABLE_END-->
 
 <!--COMMITS_SUMMARY_START-->
-- **Commits no mês (August/2025)**: **31**
-- **Média diária no mês**: **1.48** commits/dia
-- **Total de commits (ano atual)**: **29**
+- **Commits no mês (August/2025)**: **32**
+- **Média diária no mês**: **1.52** commits/dia
+- **Total de commits (ano atual)**: **30**
 
 <!--COMMITS_SUMMARY_END-->
 
