@@ -85,6 +85,18 @@
 
 ---
 
+## 📂 Repositórios em destaque
+<p align="center">
+  <a href="https://github.com/miranda-1/Bootcamp-python-suzano">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miranda-1&repo=Bootcamp-python-suzano&theme=midnight-purple" />
+  </a>
+  <a href="https://github.com/miranda-1/Primeira-aplicacao-em-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miranda-1&repo=Primeira-aplicacao-em-python&theme=midnight-purple" />
+  </a>
+</p>
+
+---
+
 ## ❓ FAQ
 <details>
   <summary><b>Clique para expandir</b></summary>
@@ -128,7 +140,6 @@
 - **Commits no mês (September/2025)**: **1**
 - **Média diária no mês**: **0.25** commits/dia
 - **Total de commits (ano atual)**: **36**
-
 <!--COMMITS_SUMMARY_END-->
 
 ---
