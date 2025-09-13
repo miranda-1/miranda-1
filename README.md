@@ -113,6 +113,7 @@
 
 | Data | Commits |
 |:----:|:-------:|
+| 2025-09-13 | **0** |
 | 2025-09-12 | **0** |
 | 2025-09-11 | **0** |
 | 2025-09-10 | **0** |
@@ -126,7 +127,6 @@
 | 2025-09-02 | **1** |
 | 2025-09-01 | **0** |
 | 2025-08-31 | **0** |
-| 2025-08-30 | **0** |
 
 ### 💜 Commits por dia da semana (últimos 14 dias)
 
@@ -138,7 +138,7 @@
 
 <!--COMMITS_SUMMARY_START-->
 - **Commits no mês (September/2025)**: **8**
-- **Média diária no mês**: **0.67** commits/dia
+- **Média diária no mês**: **0.62** commits/dia
 - **Total de commits (ano atual)**: **42**
 
 <!--COMMITS_SUMMARY_END-->
