@@ -113,6 +113,7 @@
 
 | Data | Commits |
 |:----:|:-------:|
+| 2025-09-18 | **0** |
 | 2025-09-17 | **0** |
 | 2025-09-16 | **0** |
 | 2025-09-15 | **0** |
@@ -126,19 +127,18 @@
 | 2025-09-07 | **0** |
 | 2025-09-06 | **0** |
 | 2025-09-05 | **0** |
-| 2025-09-04 | **5** |
 
 ### 💜 Commits por dia da semana (últimos 14 dias)
 
 | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **0** | **2** | **0** | **5** | **0** | **0** | **0** |
+| **0** | **2** | **0** | **0** | **0** | **0** | **0** |
 
 <!--COMMITS_TABLE_END-->
 
 <!--COMMITS_SUMMARY_START-->
 - **Commits no mês (September/2025)**: **8**
-- **Média diária no mês**: **0.47** commits/dia
+- **Média diária no mês**: **0.44** commits/dia
 - **Total de commits (ano atual)**: **42**
 
 <!--COMMITS_SUMMARY_END-->
