@@ -22,52 +22,37 @@
 ---
 
 ## 🧩 Sobre mim
-- 📚 4º semestre de **Ciência da Computação**
-- 🧠 Áreas de estudo: **Inteligência Artificial**, **Python** e **C++**
-- 🎯 Foco atual: aprimorar habilidades práticas e projetos aplicados
-- 💡 Interesses: **Visão Computacional**, **Machine Learning**, **Sistemas de Alto Desempenho**
 
----
-
-## 📚 O que estou estudando agora
-<details>
-  <summary><b>Clique para expandir</b></summary>
-  <br>
-  • Algoritmos e estruturas de dados em C++ <br>
-  • Fundamentos de Machine Learning <br>
-  • Python <br>
-</details>
+- 📚 5º semestre de **Ciência da Computação**
+- 💼 Estagiário na **Prefeitura de Campo Grande**
+- 🧠 Áreas de estudo: **Desenvolvimento de Software**, **Python**, **C++**, **JavaScript**, **TypeScript** e **C#**
+- 🎯 Foco atual: aprimorar habilidades práticas, criar projetos aplicados e evoluir como desenvolvedor
 
 ---
 
 ## ⚙️ Tech Stack
+
 ### Linguagens
+
 ![Python](https://img.shields.io/badge/Python-9400D3?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-9400D3?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### IA / Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-9400D3?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-9400D3?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-9400D3?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-9400D3?style=for-the-badge&logo=opencv&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9400D3?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-9400D3?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9400D3?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Dev
+
 ![Git](https://img.shields.io/badge/Git-9400D3?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-9400D3?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-9400D3?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-9400D3?style=for-the-badge&logo=docker&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-9400D3?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-9400D3?style=for-the-badge&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-9400D3?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miranda-1&show_icons=true&theme=midnight-purple&rank_icon=github" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranda-1&layout=compact&theme=midnight-purple" alt="top langs"/>
-</p>
-
----
-
 ## 🔥 Streak & Trophies
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=miranda-1&theme=tokyonight&hide_border=true&border_radius=6" alt="GitHub Streak" />
 </p>
@@ -79,32 +64,10 @@
 ---
 
 ## 📈 Gráfico de Contribuições
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miranda-1&bg_color=0d1117&color=c9d1d9&line=9400D3&point=9400D3&area=true&hide_border=true" alt="contribution graph"/>
 </p>
-
----
-
-## 📂 Repositórios em destaque
-<p align="center">
-  <a href="https://github.com/miranda-1/Bootcamp-python-suzano">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miranda-1&repo=Bootcamp-python-suzano&theme=midnight-purple" />
-  </a>
-  <a href="https://github.com/miranda-1/Primeira-aplicacao-em-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miranda-1&repo=Primeira-aplicacao-em-python&theme=midnight-purple" />
-  </a>
-</p>
-
----
-
-## ❓ FAQ
-<details>
-  <summary><b>Clique para expandir</b></summary>
-  <br>
-  <b>Stack preferida?</b> Python + PyTorch + C++. <br>
-  <b>Ambiente?</b> Windows + VS Code. <br>
-  <b>Objetivo?</b> Estágio/Trainee em IA ou Desenvolvimento de Software. <br>
-</details>
 
 ---
 
@@ -146,6 +109,7 @@
 ---
 
 ## 📬 Contato
+
 - ✉️ **Email:** <joaovictor10_miranda@hotmail.com>  
 - 💼 **LinkedIn:** [linkedin.com/in/joão-victor-miranda-sacco-8853a437a](https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-sacco-8853a437a)  
 - 📸 **Instagram:** [@mirandajvss](https://www.instagram.com/mirandajvss)  
