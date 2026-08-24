@@ -76,6 +76,7 @@
 
 | Data | Commits |
 |:----:|:-------:|
+| 2026-08-24 | **0** |
 | 2026-08-23 | **0** |
 | 2026-08-22 | **0** |
 | 2026-08-21 | **0** |
@@ -89,7 +90,6 @@
 | 2026-08-13 | **0** |
 | 2026-08-12 | **2** |
 | 2026-08-11 | **0** |
-| 2026-08-10 | **0** |
 
 ### 💜 Commits por dia da semana (últimos 14 dias)
 
@@ -101,8 +101,8 @@
 
 <!--COMMITS_SUMMARY_START-->
 - **Commits no mês (August/2026)**: **15**
-- **Média diária no mês**: **0.65** commits/dia
-- **Total de commits (ano atual)**: **265**
+- **Média diária no mês**: **0.62** commits/dia
+- **Total de commits (ano atual)**: **249**
 
 <!--COMMITS_SUMMARY_END-->
 
