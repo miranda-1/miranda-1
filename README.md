@@ -211,3 +211,40 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:301B50,50:6A0DAD,100:9400D3" alt="Rodapé roxo" />
 </p>
+
+
+<!--COMMITS_TABLE_START-->
+### 🔮 Últimos 14 dias
+
+| Data | Commits |
+|:----:|:-------:|
+| 2026-09-16 | **1** |
+| 2026-09-15 | **0** |
+| 2026-09-14 | **0** |
+| 2026-09-13 | **0** |
+| 2026-09-12 | **0** |
+| 2026-09-11 | **0** |
+| 2026-09-10 | **0** |
+| 2026-09-09 | **1** |
+| 2026-09-08 | **0** |
+| 2026-09-07 | **0** |
+| 2026-09-06 | **0** |
+| 2026-09-05 | **2** |
+| 2026-09-04 | **2** |
+| 2026-09-03 | **0** |
+
+### 💜 Commits por dia da semana (últimos 14 dias)
+
+| Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **0** | **0** | **2** | **0** | **2** | **2** | **0** |
+
+<!--COMMITS_TABLE_END-->
+
+
+<!--COMMITS_SUMMARY_START-->
+- **Commits no mês (September/2026)**: **10**
+- **Média diária no mês**: **0.62** commits/dia
+- **Total de commits (ano atual)**: **243**
+
+<!--COMMITS_SUMMARY_END-->
