@@ -218,6 +218,7 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 
 | Data | Commits |
 |:----:|:-------:|
+| 2026-10-02 | **0** |
 | 2026-10-01 | **0** |
 | 2026-09-30 | **0** |
 | 2026-09-29 | **0** |
@@ -231,13 +232,12 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 | 2026-09-21 | **0** |
 | 2026-09-20 | **0** |
 | 2026-09-19 | **0** |
-| 2026-09-18 | **1** |
 
 ### 💜 Commits por dia da semana (últimos 14 dias)
 
 | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **4** | **0** | **0** | **0** | **1** | **0** | **5** |
+| **4** | **0** | **0** | **0** | **0** | **0** | **5** |
 
 <!--COMMITS_TABLE_END-->
 
