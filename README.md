@@ -218,7 +218,8 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 
 | Data | Commits |
 |:----:|:-------:|
-| 2026-11-25 | **0** |
+| 2026-11-26 | **0** |
+| 2026-11-25 | **1** |
 | 2026-11-24 | **0** |
 | 2026-11-23 | **0** |
 | 2026-11-22 | **0** |
@@ -231,20 +232,19 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 | 2026-11-15 | **0** |
 | 2026-11-14 | **0** |
 | 2026-11-13 | **0** |
-| 2026-11-12 | **0** |
 
 ### 💜 Commits por dia da semana (últimos 14 dias)
 
 | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **0** | **3** | **0** | **8** | **0** | **18** | **0** |
+| **0** | **3** | **1** | **8** | **0** | **18** | **0** |
 
 <!--COMMITS_TABLE_END-->
 
 
 <!--COMMITS_SUMMARY_START-->
-- **Commits no mês (November/2026)**: **36**
-- **Média diária no mês**: **1.44** commits/dia
+- **Commits no mês (November/2026)**: **37**
+- **Média diária no mês**: **1.42** commits/dia
 - **Total de commits (ano atual)**: **306**
 
 <!--COMMITS_SUMMARY_END-->
