@@ -218,6 +218,7 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 
 | Data | Commits |
 |:----:|:-------:|
+| 2026-11-27 | **0** |
 | 2026-11-26 | **4** |
 | 2026-11-25 | **1** |
 | 2026-11-24 | **0** |
@@ -231,7 +232,6 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 | 2026-11-16 | **0** |
 | 2026-11-15 | **0** |
 | 2026-11-14 | **0** |
-| 2026-11-13 | **0** |
 
 ### 💜 Commits por dia da semana (últimos 14 dias)
 
@@ -244,7 +244,7 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 
 <!--COMMITS_SUMMARY_START-->
 - **Commits no mês (November/2026)**: **41**
-- **Média diária no mês**: **1.58** commits/dia
+- **Média diária no mês**: **1.52** commits/dia
 - **Total de commits (ano atual)**: **306**
 
 <!--COMMITS_SUMMARY_END-->
